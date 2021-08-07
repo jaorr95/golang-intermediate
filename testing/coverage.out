@@ -1,0 +1,5 @@
+mode: set
+github.com/jaorr95/testing/main.go:4.25,6.2 1 1
+github.com/jaorr95/testing/main.go:8.27,9.12 1 1
+github.com/jaorr95/testing/main.go:13.2,13.10 1 1
+github.com/jaorr95/testing/main.go:9.12,11.3 1 1
